@@ -5,4 +5,5 @@ if status is-interactive
 	print_waves -l 36
 	set --universal fish_greeting
 	fortune
+	echo ""
 end
